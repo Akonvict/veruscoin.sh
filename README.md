@@ -1,2 +1,2 @@
-# veruscoin.sh
-coin.sh
+# veruscoin
+coin
